@@ -1,4 +1,4 @@
-# AudioToVideo
+# AudioToVideo .
 Create a slideshow video for YouTube from an audio file, images and text input with a waveform animation.
 
 # Install
